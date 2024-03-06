@@ -1,0 +1,18 @@
+# CONFIG
+.env
+config.json
+
+# Binaries
+build/
+
+# Files
+*.log
+
+# IDE
+.vs/
+.vscode/
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**Debug
+**x64
